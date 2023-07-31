@@ -1,0 +1,4 @@
+Staging Area (Index):
+
+Git has a staging area that allows developers to selectively choose which changes to include in the next commit. 
+This provides greater control over versioning and helps to keep commits clean and focused.
